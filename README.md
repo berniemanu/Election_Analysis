@@ -50,10 +50,10 @@ The analysis of the election show that:
     - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary: 
-Automating CSV file analysis using Python codes would save a lot of time and money for the Election Commission. It is possible to do the same analysis using excel skills alone, however python codes written to audit this election results can be applied to audit any other election results on a local, state and evel federal level elections.
+Automating CSV file analysis using Python codes would save a lot of time and money for the Election Commission. It is possible to do the same analysis using excel skills alone, however python codes written to audit this election results can be applied to audit any other election results on a local, state and even federal level elections.
 
 
-* 1. Scalability: The screenshot of codes below demonstrates the usage of Python's Lists and Dictionaries to automatically assign Candidate's name, County name and votes cast for different candidates in different regions. The same method can be adopted in auditing any other elections with different candidate lists across different geographies.
+* 1. Scalability: The screenshot of codes below demonstrate the usage of Python's Lists and Dictionaries to automatically assign Candidate's name, County name and votes cast for different candidates in different regions. The same method can be adopted in auditing any other elections with different candidate lists across different geographies.
 
     ![Resources/Lists_and_Dictionaries.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Lists_and_Dictionaries.png)
 
