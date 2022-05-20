@@ -53,15 +53,15 @@ The analysis of the election show that:
 Automating CSV file analysis using Python codes would save a lot of time and money for the Election Commission. It is possible to do the same analysis using excel skills alone, however python codes written to audit this election results can be applied to audit any other election results on a local, state and evel federal level elections.
 
 
-*1. Scalability: The screenshot of codes below demonstrates the usage of Python's Lists and Dictionaries to automatically assign Candidate's name, County name and votes cast for different candidates in different regions. The same method can be adopted in auditing any other elections with different candidate lists across different geographies.
+* 1. Scalability: The screenshot of codes below demonstrates the usage of Python's Lists and Dictionaries to automatically assign Candidate's name, County name and votes cast for different candidates in different regions. The same method can be adopted in auditing any other elections with different candidate lists across different geographies.
 
 ![Resources/Lists_and_Dictionaries.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Lists_and_Dictionaries.png)
 
-*2. Versatality: The screenshot of codes below demonstrates the usage of Python's for loop to automatically loop through large CSV files and count votes cast for each candidate and votes cast in different counties. The same method can be adopted in counting votes in any other elections.
+* 2. Versatality: The screenshot of codes below demonstrates the usage of Python's for loop to automatically loop through large CSV files and count votes cast for each candidate and votes cast in different counties. The same method can be adopted in counting votes in any other elections.
 
 ![Resources/Automating_vote_counting.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Automating_vote_counting.png)
 
-*3. Elegant Report Generation: Python codes written to audit this election has generated simple yet effective outputs in both the terminal as well as the text file as pictured below.
+* 3. Elegant Report Generation: Python codes written to audit this election has generated simple yet effective outputs in both the terminal as well as the text file as pictured below.
 
 ![Resources/Election_results_in_Command_Line.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Election_results_in_Command_Line.png)
 
