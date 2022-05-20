@@ -28,7 +28,7 @@ I had to write python code to initialize new variables, count votes per county a
 ## Election Audit Results:
 The analysis of the election show that:
 - There were total 369,711 votes cast in the election.
-- The counties were the elections where held were:
+- The counties where the elections were held were:
     - Jefferson
     - Denver
     - Arapahoe
