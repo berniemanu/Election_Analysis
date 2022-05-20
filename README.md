@@ -52,12 +52,12 @@ The analysis of the election show that:
 ## Election-Audit Summary: 
 In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 
-Resources/Lists_and_Dictionaries.png
+![Resources/Lists_and_Dictionaries.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Lists_and_Dictionaries.png)
 
-Resources/Automating_vote_counting.png
+![Resources/Automating_vote_counting.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Automating_vote_counting.png)
 
-Resources/Election_results_in_Command_Line.png
+![Resources/Election_results_in_Command_Line.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Election_results_in_Command_Line.png)
 
-Resources/Election_results_saved_in_Text_File.png
+![Resources/Election_results_saved_in_Text_File.png](https://github.com/berniemanu/Election_Analysis/blob/8c0fa1d4c584dc7103ffaafa551c3cdfbad0cac8/Resources/Election_results_saved_in_Text_File.png)
 
 
